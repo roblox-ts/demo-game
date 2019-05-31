@@ -1,6 +1,6 @@
 # roblox-ts Demo Template
 
-Looking to get started with **roblox-ts**?
+Looking to get started with [**roblox-ts**](https://roblox-ts.github.io)?
 Just download this repository to get started!
 
 ## Prerequisites
