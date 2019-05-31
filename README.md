@@ -11,8 +11,10 @@ You'll need:
 
 If you're unsure on how to install these things, please refer to our ["Quick Start" guide](https://roblox-ts.github.io/docs/quick-start).
 
+## Setup
+`npm install`
+
 ## Usage
-Simply run
 `rbxtsc && rojo build --output build.rbxlx`
 
 This will compile your files into the `out` folder and then create a `build.rbxlx` to open in Roblox Studio.
