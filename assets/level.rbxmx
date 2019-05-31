@@ -2,7 +2,7 @@
 	<Meta name="ExplicitAutoJoints">true</Meta>
 	<External>null</External>
 	<External>nil</External>
-	<Item class="Model" referent="RBX28AC3CD6395846ECA7EE7538D2A78584">
+	<Item class="Model" referent="17">
 		<Properties>
 			<CoordinateFrame name="ModelInPrimary">
 				<X>0</X>
@@ -22,7 +22,7 @@
 			<Ref name="PrimaryPart">null</Ref>
 			<BinaryString name="Tags"></BinaryString>
 		</Properties>
-		<Item class="Part" referent="RBXB0AE69B2359942D9811CFDA13EE1816A">
+		<Item class="Part" referent="18">
 			<Properties>
 				<bool name="Anchored">true</bool>
 				<float name="BackParamA">-0.5</float>
@@ -97,7 +97,7 @@
 				</Vector3>
 			</Properties>
 		</Item>
-		<Item class="Model" referent="RBX8A3804AC635D47438BA2D6D8EDD26613">
+		<Item class="Model" referent="19">
 			<Properties>
 				<CoordinateFrame name="ModelInPrimary">
 					<X>0</X>
@@ -117,7 +117,7 @@
 				<Ref name="PrimaryPart">null</Ref>
 				<BinaryString name="Tags"></BinaryString>
 			</Properties>
-			<Item class="Part" referent="RBXF52BB6DF582E498094C49DC748779660">
+			<Item class="Part" referent="20">
 				<Properties>
 					<bool name="Anchored">true</bool>
 					<float name="BackParamA">-0.5</float>
@@ -131,7 +131,7 @@
 					<CoordinateFrame name="CFrame">
 						<X>33</X>
 						<Y>0.75</Y>
-						<Z>-17.5</Z>
+						<Z>-19.5</Z>
 						<R00>1</R00>
 						<R01>0</R01>
 						<R02>0</R02>
@@ -192,7 +192,7 @@
 					</Vector3>
 				</Properties>
 			</Item>
-			<Item class="Part" referent="RBX41E430F6EB814008AF78F7B11D9C8107">
+			<Item class="Part" referent="21">
 				<Properties>
 					<bool name="Anchored">true</bool>
 					<float name="BackParamA">-0.5</float>
@@ -206,7 +206,7 @@
 					<CoordinateFrame name="CFrame">
 						<X>33</X>
 						<Y>0.75</Y>
-						<Z>-29.5</Z>
+						<Z>-34.5</Z>
 						<R00>1</R00>
 						<R01>0</R01>
 						<R02>0</R02>
@@ -267,7 +267,7 @@
 					</Vector3>
 				</Properties>
 			</Item>
-			<Item class="Part" referent="RBXE5899793AE5449BE93DD0E5BB8CCBC3E">
+			<Item class="Part" referent="22">
 				<Properties>
 					<bool name="Anchored">true</bool>
 					<float name="BackParamA">-0.5</float>
@@ -342,7 +342,7 @@
 					</Vector3>
 				</Properties>
 			</Item>
-			<Item class="Part" referent="RBXCC699638BFBB4443978DAD994A944B46">
+			<Item class="Part" referent="23">
 				<Properties>
 					<bool name="Anchored">true</bool>
 					<float name="BackParamA">-0.5</float>
@@ -356,7 +356,7 @@
 					<CoordinateFrame name="CFrame">
 						<X>33</X>
 						<Y>0.75</Y>
-						<Z>-21.5</Z>
+						<Z>-24.5</Z>
 						<R00>1</R00>
 						<R01>0</R01>
 						<R02>0</R02>
@@ -417,7 +417,7 @@
 					</Vector3>
 				</Properties>
 			</Item>
-			<Item class="Part" referent="RBX6A65D406D0E946CD8891B60B70FB8549">
+			<Item class="Part" referent="24">
 				<Properties>
 					<bool name="Anchored">true</bool>
 					<float name="BackParamA">-0.5</float>
@@ -431,7 +431,7 @@
 					<CoordinateFrame name="CFrame">
 						<X>33</X>
 						<Y>0.75</Y>
-						<Z>-13.5</Z>
+						<Z>-14.5</Z>
 						<R00>1</R00>
 						<R01>0</R01>
 						<R02>0</R02>
@@ -492,7 +492,7 @@
 					</Vector3>
 				</Properties>
 			</Item>
-			<Item class="Part" referent="RBXC1580E03A4584466B0AB0056BD6BBB13">
+			<Item class="Part" referent="25">
 				<Properties>
 					<bool name="Anchored">true</bool>
 					<float name="BackParamA">-0.5</float>
@@ -506,7 +506,7 @@
 					<CoordinateFrame name="CFrame">
 						<X>33</X>
 						<Y>0.75</Y>
-						<Z>-25.5</Z>
+						<Z>-29.5</Z>
 						<R00>1</R00>
 						<R01>0</R01>
 						<R02>0</R02>
