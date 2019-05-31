@@ -1,0 +1,25 @@
+{
+	"name": "demo",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"build": "rbxtsc && rojo build --output build.rbxlx",
+		"install-rojo": "cargo install --force --git https://github.com/LPGhatguy/rojo.git"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/roblox-ts/demo.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/roblox-ts/demo/issues"
+	},
+	"homepage": "https://github.com/roblox-ts/demo#readme",
+	"dependencies": {
+		"rbx-services": "^1.0.22",
+		"rbx-types": "^1.0.191"
+	}
+}
