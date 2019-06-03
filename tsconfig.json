@@ -23,7 +23,6 @@
 		"jsxFactory": "Roact.createElement",
 
 		"paths": {
-			"*": ["../node_modules/@rbxts/*"],
 			"@server/*": ["server/*"],
 			"@client/*": ["client/*"],
 			"@shared/*": ["shared/*"]

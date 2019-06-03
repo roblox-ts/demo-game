@@ -1,5 +1,5 @@
 import { makeHello } from "@shared/module";
-import { CollectionService } from "services";
+import { CollectionService } from "@rbxts/services";
 
 print(makeHello("server/main.server.ts"));
 
