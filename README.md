@@ -6,7 +6,7 @@ Just download this repository to get started!
 ## Prerequisites
 You'll need:
 - NodeJS and NPM
-- roblox-ts 0.0.36+ ( `npm i -g roblox-ts` )
+- roblox-ts 0.1.7+ ( `npm i -g roblox-ts` )
 - Rojo 0.5.x
 
 If you're unsure on how to install these things, please refer to our ["Quick Start" guide](https://roblox-ts.github.io/docs/quick-start).
