@@ -15,6 +15,6 @@ If you're unsure on how to install these things, please refer to our ["Quick Sta
 `npm install`
 
 ## Usage
-`rbxtsc && rojo build --output build.rbxmx`
+`rbxtsc && rojo build --output build.rbxlx`
 
-This will compile your files into the `out` folder and then create a `build.rbxmx` to open in Roblox Studio.
+This will compile your files into the `out` folder and then create a `build.rbxlx` to open in Roblox Studio.
