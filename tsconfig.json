@@ -20,6 +20,12 @@
 
 		// optional, non-configurable
 		"jsx": "react",
-		"jsxFactory": "Roact.createElement"
+		"jsxFactory": "Roact.createElement",
+
+		"paths": {
+			"@server/*": ["server/*"],
+			"@client/*": ["client/*"],
+			"@shared/*": ["shared/*"],
+		}
 	}
 }
